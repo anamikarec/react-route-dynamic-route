@@ -1,0 +1,26 @@
+[ 
+    { 
+        "name" : "SmartPhone", 
+        "price": 30, 
+        "id" : 0,
+        "url":"https://images.samsung.com/is/image/samsung/p6pim/in/sm-m526bzkhinu/gallery/in-galaxy-m52-5g-m526-sm-m526bzkhinu-514958328?$684_547_PNG$"
+    }, 
+    { 
+        "name" : "Watch", 
+        "price" : 20, 
+        "id" : 1,
+        "url" : "https://images.samsung.com/is/image/samsung/p6pim/in/2108/gallery/in-galaxy-watch4-classic-399208-sm-r890nzsainu-481181009?$684_547_PNG$"
+    }, 
+    { 
+        "name" : "Shirt", 
+        "price" : 50, 
+        "id" : 2,
+        "url":"https://5.imimg.com/data5/CV/FV/DQ/SELLER-8868726/new-latest-design-v-cross-partywear-shirt-500x500.jpg"
+    }, 
+    {
+        "name" : "Pants",
+         "price" : 100, 
+         "id" : 3,
+         "url" : "https://m.media-amazon.com/images/I/71V2BV1exmL._UY550_.jpg"
+         } 
+]
