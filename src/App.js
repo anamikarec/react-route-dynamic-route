@@ -3,7 +3,7 @@ import './App.css';
 import React from "react";
 import Navbar from "./Components/Navbar";
 import AllRoutes from "./routes/AllRoutes";
-import {BrowserRouter, Route} from 'react-router-dom'
+import {BrowserRouter} from 'react-router-dom'
 
 export default function App() {
   return (
